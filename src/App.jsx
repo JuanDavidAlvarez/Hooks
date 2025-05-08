@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      
+       <p>Ejercicios</p>
       
       <BusquedaGitHub />
       <MensajeMontaje/>
